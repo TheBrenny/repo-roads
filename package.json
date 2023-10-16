@@ -1,13 +1,13 @@
 {
   "name": "repo-roads",
-  "displayName": "repo-roads",
+  "displayName": "Repo Roads",
   "description": "A spiritual successor to Git Graph - visualise your repo's history with a sleek graph!",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
-    "Other"
+    "Visualization"
   ],
   "activationEvents": [],
   "main": "./extension.js",
